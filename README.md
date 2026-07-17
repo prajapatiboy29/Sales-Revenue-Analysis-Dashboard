@@ -15,16 +15,22 @@ Top Performing Products
 Category-wise Sales Analysis
 Region-wise Sales Analysis
 Interactive Slicers for filtering data
+
+
 🛠️ Tools Used
 Microsoft Excel 2013
 Pivot Tables
 Pivot Charts
 Slicers
 Excel Formulas
+
+
 📈 Dashboard Insights
 Total Sales
 Revenue Trend
 Top Performing Products
+
+
 📂 Project Files
 Sales_Revenue_Analysis_Dashboard.xlsx
 🎯 Learning Outcome
